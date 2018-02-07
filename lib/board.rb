@@ -1,5 +1,5 @@
 # Define the variable board below.
-board = Array.authenticate_or_request_with_http_digest
+board = Array.new
 9.times {
   do 
 }
