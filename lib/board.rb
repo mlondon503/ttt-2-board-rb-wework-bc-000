@@ -3,4 +3,4 @@ board = Array.new
 9.times {
   do board.push(" ")
     
-}
+}ir
