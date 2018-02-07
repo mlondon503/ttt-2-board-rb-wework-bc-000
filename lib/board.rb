@@ -1,5 +1,6 @@
 # Define the variable board below.
-board = Array.New 
+board = Array.new 
 9.times {
   do 
+    
 }
